@@ -3,7 +3,7 @@
  * Plugin Name: ThreeJs Oribiter for Elementor by Artslab Creatives
  * Description: Adds a threejs scene in a component with the ability to add 3d models in a orbiter
  * Plugin URI:  https://plugins.artslabcreatives.com
- * Version:     1.0.0
+ * Version:     
  * Author:      Artslab Creatives
  * Author URI:  https://plugins.artslabcreatives.com
  * Text Domain: artslab-threejs-orbiter
