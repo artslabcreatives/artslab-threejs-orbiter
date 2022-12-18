@@ -15,10 +15,10 @@ We are a digital media agency that believes, through proper strategy formulation
 Introducing a WordPress website builder, with no limits of design. A website builder that delivers high-end page designs and advanced capabilities, never before seen on WordPress.
 
 <p align="center">
-<a href=""><img alt="" src="https://github.com/artslabcreatives/artslab-elementor-select2-control/actions/workflows/master.yml/badge.svg"></a>
-<a href=""><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/artslabcreatives/artslab-elementor-select2-control"></a>
-<a href=""><img alt="GitHub" src="https://img.shields.io/github/license/artslabcreatives/artslab-elementor-select2-control"></a>
-<a href=""><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/artslabcreatives/artslab-elementor-select2-control"></a>
+<a href=""><img alt="" src="https://github.com/artslabcreatives/artslab-threejs-orbiter/actions/workflows/master.yml/badge.svg"></a>
+<a href=""><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/artslabcreatives/artslab-threejs-orbiter"></a>
+<a href=""><img alt="GitHub" src="https://img.shields.io/github/license/artslabcreatives/artslab-threejs-orbiter"></a>
+<a href=""><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/artslabcreatives/artslab-threejs-orbiter"></a>
 </p>
 
 ## Requirements
