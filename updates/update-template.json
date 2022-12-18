@@ -1,0 +1,21 @@
+{
+	"name" : "ThreeJs Oribiter for Elementor by Artslab Creatives",
+	"slug" : "artslab-threejs-orbiter",
+	"author" : "<a href='https://artslabcreatives.com'>Miyuru Dharmage</a>",
+	"author_profile" : "http://profiles.wordpress.org/voxsar",
+	"version" : "_VERSION_",
+	"download_url" : "https://plugins.artslabcreatives.com/artslab-threejs-orbiter/updates/artslab-threejs-orbiter.zip",
+	"requires" : "3.0",
+	"tested" : "5.8",
+	"requires_php" : "5.3",
+	"last_updated" : "2021-01-30 02:10:00",
+	"sections" : {
+		"description" : "Adds a threejs scene in a component with the ability to add 3d models in a orbiter",
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	},
+	"banners" : {
+		"low" : "https://plugins.artslabcreatives.com/banner-772x250.jpg",
+		"high" : "https://plugins.artslabcreatives.com/banner-1544x500.jpg"
+	}
+}
